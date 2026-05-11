@@ -1,32 +1,57 @@
-<h1 align="center">Hi 👋, I'm Pavan Rama Sai Kumar</h1>
-<h3 align="center">AI Automation & Web Developer 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/pavansiriginidi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Automation+Developer;React+%7C+Python+%7C+n8n+Developer;Building+Smart+Automation+Systems;AWS+%7C+Full+Stack+Projects;Always+Learning+New+Technologies" />
-  </a>
-</p>
+# ⚡ PAVAN RAMA SAI KUMAR ⚡
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+AUTOMATION+ENGINEER;FULL+STACK+WEB+DEVELOPER;BUILDING+INTELLIGENT+SYSTEMS;REACT+%7C+PYTHON+%7C+AWS+%7C+n8n;FUTURE+AI+INNOVATOR" />
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<br>
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=pavansiriginidi&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
-🎓 B.Tech CSE Student at **Gayatri Vidya Parishad College of Engineering**  
-💡 Passionate about **AI Automation, Web Development & Cloud Technologies**  
-⚡ Building intelligent systems using **React, Python, n8n & APIs**  
-☁️ AWS AI & ML Intern | AI Automation Intern  
-📈 Interested in AI Agents, Automation Workflows & Full Stack Development  
+<img src="https://img.shields.io/github/followers/pavansiriginidi?style=for-the-badge&logo=github" />
+
+<img src="https://img.shields.io/github/stars/pavansiriginidi?style=for-the-badge&logo=github" />
+
+</div>
 
 ---
 
-## 🌐 Portfolio & Contact
+# 💫 ABOUT ME
 
-<p align="left">
+<img align="right" width="350" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+
+```yaml
+Name: Pavan Rama Sai Kumar
+Role: AI Automation & Web Developer
+Location: India 🇮🇳
+Education: B.Tech CSE (CGPA: 9.13)
+Passion:
+  [
+    AI Automation,
+    Full Stack Development,
+    Cloud Computing,
+    Intelligent Systems
+  ]
+
+Currently Working On:
+  [
+    AI Agents,
+    Automation Workflows,
+    Scalable Web Applications
+  ]
+
+Life Philosophy:
+  "Build. Learn. Automate. Repeat."
+```
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
 
 <a href="mailto:siriginidipavan@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/pavan-siriginidi">
@@ -34,138 +59,175 @@
 </a>
 
 <a href="https://siriginidipavan.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/pavansiriginidi">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-## 💻 Tech Stack
+# ⚒️ TECH ARSENAL
 
-### 👨‍💻 Languages
-<p>
+<div align="center">
+
+## 👨‍💻 Languages
 <img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
 
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
-</p>
+---
 
-### ⚙️ Backend & Database
-<p>
+## 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
+
+---
+
+## ⚙️ Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
 
-### 🤖 AI & Automation
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker" />
-</p>
+---
 
-<p>
+## ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
+
+---
+
+## 🤖 AI & Automation
 <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white"/>
+<img src="https://img.shields.io/badge/ZAPIER-FF4F00?style=for-the-badge&logo=zapier&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_AUTOMATION-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-</p>
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 FEATURED PROJECTS
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavansiriginidi&show_icons=true&theme=tokyonight&hide_border=true"/>
+| 🚀 Project | 💻 Tech Stack | ⭐ Highlights |
+|---|---|---|
+| **Personal AI Assistant** | n8n, APIs, AI Automation | AI workflows, scheduling, email automation |
+| **EcoBuddy Platform** | React, Node.js, MongoDB | Sustainable e-commerce + AI chatbot |
+| **Automated Attendance System** | Python, Face Recognition | Buffalo Model + Analytics Dashboard |
+| **Financial AI Chatbot** | Python, Groq API, IBM Watson | Real-time financial intelligence |
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavansiriginidi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavansiriginidi&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pavansiriginidi&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 📊 GITHUB ANALYTICS
 
-## 🤖 Personal AI Assistant
-### Tech Stack: n8n, APIs, AI Automation
+<div align="center">
 
-✔️ Automated email management, scheduling & code generation  
-✔️ Voice & text-based AI interactions  
-✔️ Workflow automation using APIs & AI tools  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavansiriginidi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavansiriginidi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-## 🌱 EcoBuddy – Smart Sustainable Shopping Platform
-### Tech Stack: React.js, Node.js, MongoDB
-
-✔️ Full-stack eco-friendly shopping platform  
-✔️ AI chatbot for sustainable product recommendations  
-✔️ Modern responsive UI/UX  
+</div>
 
 ---
 
-## 📸 Automated Attendance System
-### Tech Stack: Python, Face Recognition, Buffalo Model
+<div align="center">
 
-✔️ Face recognition-based attendance tracking  
-✔️ Student login & analytics dashboard  
-✔️ Monthly attendance performance reports  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavansiriginidi&theme=tokyonight&hide_border=true&background=0D1117"/>
 
----
-
-## 💹 Financial AI Chatbot
-### Tech Stack: Python, Groq API, IBM Watson AI
-
-✔️ AI-powered financial assistant  
-✔️ Student & Professional modes  
-✔️ Real-time stock insights & analytics  
+</div>
 
 ---
 
-# 🏅 Certifications
+# 🏆 ACHIEVEMENTS
 
-✅ AWS Academy Advanced Machine Learning Foundations  
-✅ AWS Academy Machine Learning Foundations  
-✅ Modern Artificial Intelligence – Cisco  
-✅ n8n Workflow Automation – Simplilearn  
-✅ Python Programming Fundamentals – Infosys Springboard  
-✅ Frontend Development – Udemy  
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=pavansiriginidi&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavansiriginidi&theme=tokyo-night"/>
-</p>
+</div>
 
 ---
 
-# ⚡ Fun Fact
+# 📈 CONTRIBUTION GRAPH
 
-```javascript
-while(!success){
-    learn();
-    build();
-    automate();
-}
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavansiriginidi&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 EXPERIENCE
+
+```diff
++ Web Development Intern @ Nexus Logic Technologies
++ AI Automation Intern @ iPage UMS Pvt Ltd
++ AWS AI & ML Intern @ EduSkills
 ```
 
 ---
 
-<h3 align="center">⭐ Building Intelligent Automation & Modern Web Solutions ⭐</h3>
+# 🎓 CERTIFICATIONS
+
+🏅 AWS Advanced Machine Learning Foundations  
+🏅 AWS Machine Learning Foundations  
+🏅 Modern Artificial Intelligence – Cisco  
+🏅 n8n Workflow Automation – Simplilearn  
+🏅 Python Programming Fundamentals – Infosys Springboard  
+
+---
+
+# ⚡ CODER MODE
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="500"/>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💀 "AUTOMATING THE FUTURE WITH AI & CODE" 💀
+
+</div>
+
+---
+
+```python
+class Engineer:
+
+    def __init__(self):
+        self.name = "Pavan"
+        self.role = "AI Automation Engineer"
+
+    def skills(self):
+        return [
+            "React",
+            "Python",
+            "AWS",
+            "n8n",
+            "Automation",
+            "AI Systems"
+        ]
+
+    def future(self):
+        return "Building Intelligent Products 🚀"
+
+me = Engineer()
+
+while True:
+    me.skills()
+    me.future()
+```
+
+---
+
+<div align="center">
+
+# ⭐ THANKS FOR VISITING MY PROFILE ⭐
+
+</div>
